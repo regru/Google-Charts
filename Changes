@@ -1,0 +1,8 @@
+Revision history for Perl extension Google::Charts.
+
+0.01  Sat Mar 28 19:04:42 2009
+    - original version; created by h2xs 1.23 with options
+      --omit-XS --omit-autoload --force --version=0.01 --compat-version=5.8.8 --name Google::Charts
+0.02 Sat Mar 28 21:04:42 2009
+    - Module deprecated, use URI::GoogleChart
+        
